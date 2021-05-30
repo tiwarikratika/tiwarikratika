@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tiwarikratika
 - 🔭 I’m currently working on Personal Projects.
 - 🌱 I’m currently learning Django 
-- 📫 How to reach me kratikatiwari08@gmail.com
+- 📫 How to reach me kratikatiwari008@gmail.com
 - ⚡ Fun fact: In my free time, you'll find me trying to make fun animations and painting.
 
 <!---
