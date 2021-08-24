@@ -1,7 +1,7 @@
 <img src="girl-gif.gif" width="400" height="200" align="right">
 
-<h2>Hi everyone, I am Kratika Tiwari 👋
-</h2>
+<h1>Hi everyone, I am Kratika Tiwari 👋
+</h1>
 <p> A final year computer science undergraduate who loves to explore new things. I am a full stack <strong>Web Developer</strong>
   Also I code in <b>C and C++</b> and currently learning <b>Data Structures and Algorithms</b>.
 </p>
@@ -28,6 +28,7 @@
  <img src="https://www.netlify.com/img/press/logos/logomark.png" width="40" height="40"/>
  </p>
  
+ ## Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tiwarikratika)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiwarikratika&layout=compact)](https://github.com/tiwarikratika/github-readme-stats)
