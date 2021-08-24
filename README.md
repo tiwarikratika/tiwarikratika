@@ -1,4 +1,4 @@
-<img src="image.png" width="400" height="200" align="right">
+<img src="girl-gif.gif" width="400" height="200" align="right">
 
 <h2>Hi everyone, I am Kratika Tiwari 👋
 </h2>
