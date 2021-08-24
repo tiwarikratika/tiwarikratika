@@ -1,3 +1,5 @@
+![This is an image](https://c.tenor.com/FUv4qr5HaMsAAAAd/work-working.gif=100x100) 
+
 - 👋 Hi, I’m @tiwarikratika
 - 🔭 I’m currently working on Personal Projects.
 - 🌱 I’m currently learning Web Dev
